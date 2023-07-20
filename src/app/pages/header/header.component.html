@@ -1,7 +1,7 @@
-<div class="col-lg-8">
-  <div class="sticky-top">
+<div class="col-lg-8 sticky-top mx-auto">
+  <div class="">
     <div class="row mt-3">
-      <div class="col-lg-12">
+      <div class="col-lg-8">
         <div class="card rh-card">
           <div class="card-header">
             <nav class="navbar navbar-expand-lg navbar-light bg-light">
@@ -28,12 +28,26 @@
               <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav mr-auto">
                   <li class="nav-item active">
-                    <a class="nav-link" href="#"
+                    <a class="nav-link btn"
                       >Home <span class="sr-only">(current)</span></a
                     >
                   </li>
                   <li class="nav-item">
-                    <a class="nav-link">Formación</a>
+                    <a class="nav-link btn" (click)="smoothScroll('#formacion')"
+                      >Formación</a
+                    >
+                  </li>
+                  <li class="nav-item">
+                    <a
+                      class="nav-link btn"
+                      (click)="smoothScroll('#experiencia')"
+                      >Experiencia</a
+                    >
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link btn" (click)="smoothScroll('#trabajos')"
+                      >Trabajos</a
+                    >
                   </li>
                 </ul>
               </div>
