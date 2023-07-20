@@ -1,30 +1,38 @@
 {
-  "email": "rnldhv91@gmail.com",
-  "location": "Durbanville, Cape Town",
-  "name": "Ronald Hove",
-  "phone": "",
-  "avatar": "assets/media/images/pro_offerzen.jpg",
+  "email": "jenaru.dev@gmail.com",
+  "location": "",
+  "name": "Jesús Navarro Ruiz",
+  "phone": "639014789",
+  "avatar": "assets/media/images/foto_Jesus_Navarro_rec.jpg",
   "education": [
     {
-      "title": "Bachelor of Science (BSc) in Computer Science and Information Systems",
-      "meta": "University of the Western Cape,  Jan 2014 – Nov 2018"
+      "title": "Certificado de Profesionalidad III. Diseño y mantenimiento de páginas web Equivalente a F.G.S. Desarrollo de Aplicaciones Web",
+      "meta": "Hub Tecnológico de Ayerbe"
+    },
+    {
+      "title": "Desarrollo aplicaciones JAVA.",
+      "meta": "Centro de Tecnologías Avanzadas (CTA) - Zaragoza 64h"
+    },
+    {
+      "title": "Desarrollo web con React JS.",
+      "meta": "Centro de Tecnologías Avanzadas (CTA) - Zaragoza 48h"
     }
   ],
-  "about": "I consider myself a value adder. I resolute to being a key asset of objective teams while seeking value from colleagues to add to my strengths. I love computer science and information technology.\n\nI have acquired experience building industry standard, production ready applications from working as a full time software developer and being a full time technology hobbyist.",
+  "about": "Después de finalizar mis estudios en desarrollo y diseño de aplicaciones web, a través del Certificado de Profesionalidad nivel III, “Diseño y Mantenimiento de Páginas Web”, que equivale a un F.G.S. de Desarrollo de Aplicaciones Web, sigo formándome en tecnologías como Spring Boot3, JAVA o AWS.\n\nMe desenvuelvo bien en esta profesión. Desde que comencé en este sector no he dejado de formarme y de realizar proyectos, tanto académica como profesionalmente. He participado en diferentes proyectos por mi cuenta -tanto sólo como en equipo-. ",
   "socials": [
     {
-      "name": "rnldhv91@gmail.com",
-      "link": "mailto:rnldhv91@gmail.com",
+      "name": "jenaru.dev@gmail.com",
+      "link": "mailto:jenaru.dev@gmail.com",
       "icon": "fa fa-envelope"
     },
     {
       "name": "Github",
-      "link": "https://github.com/ronald-hove",
+      "link": "https://github.com/jenaruDev",
       "icon": "fab fa-github"
     },
     {
       "name": "LinkedIn",
-      "link": "https://www.linkedin.com/in/ronald-hove/",
+      "link": "https://www.linkedin.com/in/jes%C3%BAs-n-064448244/",
       "icon": "fab fa-linkedin"
     }
   ]

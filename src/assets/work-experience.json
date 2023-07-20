@@ -1,58 +1,31 @@
 {
   "work": [
     {
-      "date": "September 2018 - Present",
-      "title": "Software Developer at Lava Lamp Lab",
-      "description": "Conduct Work in developing cross-platform mobile applications (iOS and Android) as well as Backend applications. \n\nWe mainly develop using Agile over two-week sprints.",
+      "date": "Julio 2022 - Present",
+      "title": "Full Stack Developer",
+      "description": "Diseño y desarrrollo de una aplicación para implementar AI a experiencias personales.",
       "stack": [
-        "Ionic",
-        "Angular",
-        "Node.js",
-        "npm",
+        "Python",
+        "AWS",
+        "Lambda",
+        "DynamoDB",
         "Git",
-        "Bitbucket",
-        "GitHub",
-        "Agile",
-        "Laravel",
         "Express.js",
-        "Azure",
-        "Cosmos DB",
         "JavaScript",
         "TypeScript"
       ]
     },
     {
-      "date": "September 2017 - September 2018",
-      "title": "Technical Intern at WC Colab for eInclusion and Social Innovation | Core Team",
-      "description": "I worked in a team of students focussing on projects centred around applications development, robotics, machine learning and designing courses to teach other students about these applications of technology.",
-      "stack": [
-        "Python",
-        "Linux",
-        "Angular",
-        "Ionic"
-      ]
+      "date": "Julio 2021 - Junio 2022",
+      "title": "Full Stack Developer -Diseñador  web- Proyecto “Hub Tecnológico de Ayerbe”",
+      "description": "Diseño y desarrollo de página corporativa de la oficina de Turismo de Ayerbe\nDesarrollo de una aplicación para control de horas de los trabajadores.\nDesarrollo de una aplicación audioguia.",
+      "stack": ["PHP", "Wordpress", "Javascript", "Mysql", "Git"]
     },
     {
-      "date": "January 2017 - present",
-      "title": "Freelance Software Developer",
-      "description": "I take on freelance contracts to build awesome looking web and mobile apps for clients in Cape Town and Around South Africa.",
-      "stack": [
-        "Angular",
-        "PHP",
-        "Python",
-        "RESTful API Design",
-        "MongoDB",
-        "Firebase",
-        "MySQL",
-        "Node.js",
-        "npm",
-        "Ionic",
-        "Database Design",
-        "Amazon EC2",
-        "Postman",
-        "Linux"
-      ]
+      "date": "agosto 2021 - Septiembre 2022",
+      "title": "Página web para profesional autónoma",
+      "description": "Diseño y desarrollo de una página web estática. Figma para el diseño. Html, CSS y Bootstrap para la construcción de la página. Contratación de servicio de hosting y obtención de dominio.",
+      "stack": ["HTML", "CSS", "Bootstrap5"]
     }
-
   ]
 }

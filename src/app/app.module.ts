@@ -7,6 +7,7 @@ import { AppComponent } from './app.component';
 
 import { HttpClientModule } from '@angular/common/http';
 import { LinkifyPipe } from './pipes/linkify.pipe';
+import { HeaderComponent } from './pages/header/header.component';
 
 
 @NgModule({
@@ -14,11 +15,13 @@ import { LinkifyPipe } from './pipes/linkify.pipe';
     AppComponent,
     routingComponents,
     LinkifyPipe,
+    HeaderComponent
   ],
   imports: [
     BrowserModule,
     AppRoutingModule,
     HttpClientModule
+
   ],
   providers: [
     DataApiService
