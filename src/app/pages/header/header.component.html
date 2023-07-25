@@ -1,7 +1,7 @@
-<div class="col-lg-8 sticky-top mx-auto">
+<div class="col-lg-12 col-md-6 sticky-top">
   <div class="">
     <div class="row mt-3">
-      <div class="col-lg-8">
+      <div class="col-lg-12">
         <div class="card rh-card">
           <div class="card-header">
             <nav class="navbar navbar-expand-lg navbar-light bg-light">
@@ -28,7 +28,10 @@
               <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav mr-auto">
                   <li class="nav-item active">
-                    <a class="nav-link btn"
+                    <a
+                      [routerLink]="['/home']"
+                      routerLinkActive="router-link-active"
+                      class="nav-link btn"
                       >Home <span class="sr-only">(current)</span></a
                     >
                   </li>
@@ -47,6 +50,14 @@
                   <li class="nav-item">
                     <a class="nav-link btn" (click)="smoothScroll('#trabajos')"
                       >Trabajos</a
+                    >
+                  </li>
+                  <li class="nav-item">
+                    <a
+                      [routerLink]="['/experimentos']"
+                      routerLinkActive="router-link-active"
+                      class="nav-link btn"
+                      >Experimentos</a
                     >
                   </li>
                 </ul>

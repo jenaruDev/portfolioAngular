@@ -8,6 +8,7 @@ import { AppComponent } from './app.component';
 import { HttpClientModule } from '@angular/common/http';
 import { LinkifyPipe } from './pipes/linkify.pipe';
 import { HeaderComponent } from './pages/header/header.component';
+import { ExperimentosComponent } from './pages/experimentos/experimentos.component';
 
 
 @NgModule({
@@ -15,8 +16,8 @@ import { HeaderComponent } from './pages/header/header.component';
     AppComponent,
     routingComponents,
     LinkifyPipe,
-    HeaderComponent
-  ],
+    HeaderComponent,
+    ExperimentosComponent  ],
   imports: [
     BrowserModule,
     AppRoutingModule,
